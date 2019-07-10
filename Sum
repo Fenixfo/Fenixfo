@@ -1,0 +1,22 @@
+package youtube;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author Fenixfo
+ */
+public class Youtube {
+
+    public static void main(String[] args) {
+    
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Add the first number");
+        int a=sc.nextInt();
+        System.out.println("Add the second number");
+        int b=sc.nextInt();
+        System.out.println("The result is: "+(a+b));
+        
+    }
+}
+© 2019 GitHub, Inc.
