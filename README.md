@@ -96,6 +96,15 @@ Mi carrera se ha desarrollado en el sector financiero y bancario, trabajando dir
 
 ## 🚀 Mis Proyectos
 
+### 🌐 Proyectos en Vivo
+
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| **📦 Inventarios Beraca** | Plataforma web de gestión de inventarios | [inventarios-beraca.vercel.app](https://inventarios-beraca.vercel.app/) |
+| **📖 Lector Inmersivo** | Lector bilingüe inmersivo para aprendizaje de idiomas | [fenixfo.github.io/bilingual-reader](https://fenixfo.github.io/bilingual-reader/) |
+
+### 📂 En mis repositorios
+
 Explora mis repositorios para ver en acción:
 - Pipelines ETL con Python y AWS
 - Análisis de datos y dashboards
